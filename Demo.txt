@@ -1,0 +1,5 @@
+This file is created here 
+i have already created one file named "Sample3.txt"
+later i modified and deleted that file 
+
+so this file i created in git and this will be displayed in my editor
